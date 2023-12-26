@@ -14,11 +14,11 @@ tratamos sobre o Pensamento Computacional, analisando como o computador interpre
 
 1. Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
 
-<img src="Certificados/EGEJ.jpg" width="200" height="400">
+<img src="Certificados/EGEJ.jpg" width="400" height="200">
 
 2. Introdução à Programação e Pensamento Computacional 
 
-<img src="Certificados/IPPC.jpg" width="200" height="400">
+<img src="Certificados/IPPC.jpg" width="400" height="200">
 
 3. Aula Inaugural - Decola Tech 2024
 
