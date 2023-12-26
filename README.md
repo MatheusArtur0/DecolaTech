@@ -3,10 +3,13 @@
 <img src="Imagens/Perfil.png">
 </div>
 
+<div text align="center">
+
 # Hey!
-Bem vindo! Criei esse repositório com o intuito de relatar um pouco do meu progresso quanto ao Decola Tech 2024.
-Esse programa é ofertado pela Avanade, onde contém trilhas educacionais online inteiramente focada em .NET, desta forma, eu, assim como outras pessoas, 
+Bem vindo! Criei esse repositório com o intuito de relatar um pouco do meu progresso quanto ao Decola Tech 2024. Esse programa é ofertado pela Avanade, onde contém trilhas educacionais online inteiramente focada em .NET, desta forma, eu, assim como outras pessoas, 
 vamos aprender desde o básico até conceitos avançados ao desenvolver projetos práticos junto com experts da área. 
+
+</div>
 
 ## A trilha é composta por: 
 
