@@ -28,10 +28,10 @@ Logo, a medida que cada tópico vai sendo destrinchado, irei atualizar esse repo
 
 1. [Introdução à lógica de programação e pensamento computacional](topico1) :heavy_check_mark: 
 
-2. [Dominando a linguagem de programação C#](topico2) :construction: :construction_worker: :construction:
+2. [Dominando a linguagem de programação C#](topico2) :heavy_check_mark: 
 
-3. [Converções C# com desafios de código](topico3) :construction: :construction_worker: :construction:
+3. [Converções C# com desafios de código](topico3) :heavy_check_mark: 
 
-4. [Orientação a Objetos com C#](topico4) :construction: :construction_worker: :construction:
+4. [Orientação a Objetos com C#](topico4) :heavy_check_mark: 
 
-5. [Praticando Orientação a Objetos com desafios de código em C#](topico5) :construction: :construction_worker: :construction:
+5. [Praticando Orientação a Objetos com desafios de código em C#](topico5) :heavy_check_mark: 
